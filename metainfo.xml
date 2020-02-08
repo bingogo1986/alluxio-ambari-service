@@ -6,7 +6,7 @@
             <name>ALLUXIO</name>
             <displayName>Alluxio</displayName>
             <comment>Memory Centric Reliable Distributed Storage</comment>
-            <version>1.0.1</version>
+            <version>2.1.1</version>
             <components>
                 <component>
                     <name>ALLUXIO_MASTER</name>
@@ -34,7 +34,7 @@
 
             <osSpecifics>
                 <osSpecific>
-                    <osFamily>redhat6</osFamily>  
+                    <osFamily>redhat7</osFamily>  
                 </osSpecific>
             </osSpecifics>
 	    
