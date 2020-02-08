@@ -33,7 +33,7 @@
   <property>
     <name>alluxio.archive.file</name>
     <description>alluxio archive file</description>
-    <value>alluxio-1.0.1-bin.tar.gz</value>
+    <value>alluxio-2.1.1-bin.tar.gz</value>
   </property>
 
   <property require-input="true">
@@ -49,7 +49,7 @@
   </property>
 
   <property>
-    <name>alluxio_user</name>
+    <name>Alluxio User</name>
     <value>alluxio</value>
     <property-type>USER</property-type>
     <description>Alluxio Service Account User</description>
